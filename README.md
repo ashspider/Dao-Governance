@@ -45,6 +45,9 @@ Initially, we will build a Governor without a timelock. The core logic is given 
 4. Run 1st script
 `$ truffle exec .\scripts\1_create_proposal.js`
 
+# Graphical Representation
+
+![dao_process](https://user-images.githubusercontent.com/39323954/177732367-a30fb29b-9628-4ad8-a179-168d53cfb72b.jpg)
 
 
 
