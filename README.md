@@ -10,7 +10,7 @@ The voting power of each account in our governance setup will be determined by a
 
 ### Governor
 
-Initially, we will build a Governor without a timelock. The core logic is given by the Governor contract, but we still need to choose:
+Initially, we will build a Governor with a timelock. The core logic is given by the Governor contract, but we still need to choose:
 
 1) how voting power is determined
 2) how many votes are needed for quorum
